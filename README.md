@@ -1,2 +1,0 @@
-# nuevas-pelis
-pelis2
